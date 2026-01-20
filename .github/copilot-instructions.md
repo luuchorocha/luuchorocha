@@ -46,3 +46,4 @@ This is a personal GitHub profile repository that showcases my work as a Fullsta
 - Maintain an engaging and professional profile
 - Keep content current and relevant
 - Ensure all visual elements load and display correctly
+
