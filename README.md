@@ -142,5 +142,5 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fragment+Mono&size=16&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Thanks+for+stopping+by!+%F0%9F%98%8A;Feel+free+to+explore+my+repositories;Let's+build+something+amazing+together+%F0%9F%9A%80" alt="Footer Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fragment+Mono&size=16&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Thanks+for+stopping+by!+%F0%9F%98%8A;Feel+free+to+explore+my+repositories!;Let's+build+something+amazing+together+%F0%9F%9A%80" alt="Footer Typing SVG" />
 </div>
