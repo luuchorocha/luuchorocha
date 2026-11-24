@@ -1,35 +1,62 @@
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fragment+Mono&size=25&pause=0001&color=F7F7F7&center=true&vCenter=true&repeat=false&lines=Hi!+I'm+Luciano+Rocha+%F0%9F%91%8B" alt="Typing SVG" /></h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fragment+Mono&size=28&pause=1200&color=F7F7F7&center=true&vCenter=true&repeat=false&width=700&lines=Hi%2C+I'm+Luciano+Rocha+%F0%9F%91%8B" alt="Typing SVG" />
+</h1>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="360" alt="Coding animation" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fragment+Mono&size=18&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%F0%9F%92%BB;Tech+Passionate+%F0%9F%9A%80;Always+Learning+%F0%9F%93%9A;Building+Amazing+Things+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fragment+Mono&size=18&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Fullstack+Developer+%F0%9F%92%BB;Building+clean+and+scalable+web+experiences;Always+learning,+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <a href="https://github.com/LuuchoRocha"><img src="https://img.shields.io/github/followers/LuuchoRocha?label=Followers&style=for-the-badge&logo=github&color=blue" alt="GitHub Followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=LuuchoRocha&style=for-the-badge&color=brightgreen" alt="Profile Views" />
+  I enjoy turning ideas into polished products with thoughtful UI, solid backend architecture, and a smooth developer experience.
+</p>
+
+<p align="center">
+  <a href="https://github.com/LuuchoRocha">
+    <img src="https://img.shields.io/github/followers/LuuchoRocha?label=Followers&style=for-the-badge&logo=github&color=0D1117" alt="GitHub Followers" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=LuuchoRocha&style=for-the-badge&color=0e75b6" alt="Profile Views" />
 </p>
 
 ---
 
-## 🚀 About Me
+## ✨ About Me
 
-I'm a passionate **Fullstack Developer** who loves creating innovative solutions and learning new technologies. I enjoy tackling complex problems and turning ideas into reality through code.
+- 💼 Fullstack developer focused on building modern, reliable web applications
+- 🧠 Curious by nature and always exploring better ways to design, build, and ship
+- 🤝 Open to collaboration, creative ideas, and meaningful products
+- ⚡ I like code that feels simple to use, easy to maintain, and nice to look at
 
-- 🔭 Currently working on exciting fullstack projects
-- 🌱 Constantly learning and exploring new technologies
-- 💡 Love collaborating on open-source projects
-- ⚡ Fun fact: Code is poetry in motion!
+---
+
+## 🚀 What I Focus On
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">Frontend</h3>
+      <p align="center">Responsive interfaces, component-driven development, and smooth user experiences.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">Backend</h3>
+      <p align="center">APIs, business logic, and scalable application structure built to last.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">Craft</h3>
+      <p align="center">Readable code, thoughtful details, and continuous improvement in every project.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
@@ -39,7 +66,7 @@ I'm a passionate **Fullstack Developer** who loves creating innovative solutions
 </p>
 
 ### Frontend
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
@@ -48,7 +75,7 @@ I'm a passionate **Fullstack Developer** who loves creating innovative solutions
 </p>
 
 ### Backend
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
@@ -57,15 +84,15 @@ I'm a passionate **Fullstack Developer** who loves creating innovative solutions
 </p>
 
 ### Databases
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 </p>
 
-### Tools & Technologies
-<p align="left">
+### Tools
+<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
@@ -75,7 +102,7 @@ I'm a passionate **Fullstack Developer** who loves creating innovative solutions
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LuuchoRocha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
@@ -92,7 +119,7 @@ I'm a passionate **Fullstack Developer** who loves creating innovative solutions
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Highlights
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=LuuchoRocha&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
@@ -100,22 +127,24 @@ I'm a passionate **Fullstack Developer** who loves creating innovative solutions
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
-<!-- Update the links below with your actual social media profiles -->
 <p align="center">
-  <a href="https://github.com/LuuchoRocha"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <!-- <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
-  <!-- <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> -->
-  <!-- <a href="https://x.com/your-handle"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a> -->
+  I'm always happy to connect with people building cool things on the web.
+</p>
+
+<p align="center">
+  <a href="https://github.com/LuuchoRocha">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Footer animation" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fragment+Mono&size=16&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%98%8A;Feel+free+to+explore+my+repositories!;Let's+build+something+amazing+together!+%F0%9F%9A%80" alt="Footer Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fragment+Mono&size=16&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Thanks+for+stopping+by!+%F0%9F%98%8A;Feel+free+to+explore+my+repositories!;Let's+build+something+amazing+together!+%F0%9F%9A%80" alt="Footer Typing SVG" />
 </div>
