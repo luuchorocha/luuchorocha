@@ -3,101 +3,61 @@
 </h1>
 
 <p align="center">
-  <strong>Senior Full-Stack Software Engineer</strong><br />
-  Argentina · Open to remote opportunities
+  <strong>Senior Full-Stack & Frontend Software Engineer</strong><br />
+  Río Cuarto, Argentina
 </p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="320" alt="Coding animation" />
 </div>
 
-<p align="center">
-  Software engineer with 10+ years of experience building web applications and turning real-world problems into practical software.
-</p>
+## A bit about me
 
----
+I'm a software engineer from Río Cuarto, Argentina, with **10+ years of experience** building web and mobile applications. I've worked on products in education, fintech, ERP, e-commerce, media, healthcare, and social platforms. Depending on the project, my work has included frontend and mobile development, backend services, integrations, architecture, and technical leadership.
 
-## About Me
+JavaScript and TypeScript have been a big part of my career, especially with **React, Next.js, and React Native**. On the backend, I've worked with **Ruby on Rails, Node.js/Express, and Java**, as well as REST and GraphQL APIs and relational databases.
 
-I'm a full-stack software engineer with a strong background in **Ruby on Rails, JavaScript/TypeScript, and PostgreSQL**. Over the years, I've worked across the entire development process: understanding requirements, designing and building APIs, modeling data, developing user interfaces, and maintaining applications over time.
+I've had opportunities to lead projects and collaborate with distributed teams, but I still enjoy being hands-on: understanding how a product works, writing code, tracking down a tricky issue, and figuring out a better way to do something.
 
-My main focus is backend engineering, but I enjoy working across the stack. I have experience building frontend applications with **React and Next.js**, connecting them to reliable backend services, and making sure the pieces work well together.
+I'm curious by nature. I like learning new tools and technologies, usually by building something with them. I don't expect to know everything; I enjoy the process of getting familiar with a problem, experimenting, and gradually getting better at the work.
 
-I care about software that solves the right problem. I value clear and maintainable code, pragmatic technical decisions, thoughtful architecture, and straightforward collaboration. I prefer a simple solution that works well over unnecessary complexity.
+## Some work I've enjoyed
 
-I'm also interested in exploring Python and practical AI tooling, and I enjoy learning by building things.
+- **Education platforms:** Led the delivery of Story Maker (Ruby on Rails 8) and Fluency (Next.js). I also worked on audio workflows using Piper TTS and Vosk to align narration with text and support reading assessments.
+- **Mobile and real-time products:** Worked on React Native and React applications with WebSockets, speech-to-text, location-based features, and multi-participant video.
+- **ERP and e-commerce integrations:** Built backend extensions and integrations involving Openbravo, Magento, and Exigo, among other systems.
+- **Automation:** Built a TypeScript/Express service that processes documents received through WhatsApp Business and connects them to email workflows.
 
-## What I Work On
+## Technologies I've worked with
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">Backend Engineering</h3>
-      <p align="center">APIs, business logic, integrations, data modeling, and maintainable application architecture.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">Full-Stack Development</h3>
-      <p align="center">End-to-end web applications, from backend services to responsive interfaces and user workflows.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">Problem Solving</h3>
-      <p align="center">Understanding requirements, simplifying complex problems, and choosing practical solutions.</p>
-    </td>
-  </tr>
-</table>
+**Frontend & mobile**
 
----
+JavaScript · TypeScript · React · Next.js · React Native · Redux · Tailwind CSS · Framer Motion · HTML · CSS
 
-## Tech Stack
+**Backend & APIs**
 
-### Core Technologies
+Ruby on Rails · Node.js · Express · Java · REST APIs · GraphQL · JWT · Devise · RBAC
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
-  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
+**Data & infrastructure**
 
-### Frontend
+PostgreSQL · MySQL · Redis · Docker · AWS S3 · Heroku · GitHub Actions · Linux · Git
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-</p>
+**Audio & video**
 
-### Backend & Data
+Piper TTS · Vosk STT · OpenTok
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-</p>
+## Open source & side projects
 
-### Tools
+I also like working on small tools outside client projects. These are some of the projects I've worked on recently:
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-</p>
+- **lazy-wrappers** - A set of asynchronous wrappers for version managers that reduced my shell startup time from 245 ms to 9 ms.
+- **piper-tts-server** - A Python HTTP server for asynchronous audio generation with Piper TTS.
+- **zshx** - A Zsh framework for quick environment setup and custom prompt completions.
+- **keyman** - A command-line tool for managing SSH and GPG keys with automated workflows.
 
----
+There's always something new to learn, and building these smaller projects is one of the ways I keep exploring.
 
-## Let's Connect
-
-I'm always interested in connecting with developers, exchanging ideas, and working with people who enjoy building useful software.
+## Find me elsewhere
 
 <p align="center">
   <a href="https://www.linkedin.com/in/luuchorocha/">
@@ -106,8 +66,4 @@ I'm always interested in connecting with developers, exchanging ideas, and worki
   <a href="https://github.com/LuuchoRocha">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
-
-<p align="center">
-  Thanks for stopping by. Feel free to explore my repositories!
 </p>
